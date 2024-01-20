@@ -7,4 +7,5 @@ Welcome to Collaborative Filtering-Based Recommender for Books! This machine-lea
 Collaborative Filtering is divided into two main types: User-Based and Item-Based.
 
 User-Based Collaborative Filtering: Recommends books based on users' preferences similar to the target user.
+
 Item-Based Collaborative Filtering: Recommends books based on the similarities between items, suggesting books similar to those the user has liked.
